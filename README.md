@@ -2,13 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
+## About FakeDatGenerator
+
+A very simple app to generate some random user data based on randomuser.me API.
+
 ## Live preview of site
 
 To check a live version of the site please visit: https://fake-data-gen.vercel.app
-
-## About FakeDatGenerator
-
-A very simple app to generate some random user data based on randomuser.me API
 
 ## Development server
 
